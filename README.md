@@ -72,3 +72,15 @@ The ultrasonic sensor constantly measures the distance to objects in front of it
 
 sudo apt update
 sudo apt install python3-gpiozero
+
+Part,Quantity,Link
+Raspberry Pi 4 Model B,1,https://www.raspberrypi.com/products/raspberry-pi-4-model-b/
+HC-SR04 Ultrasonic Sensor,1,https://components101.com/sensors/ultrasonic-sensor-working-pinout-datasheet
+Red LED (5mm),1,https://thepihut.com/products/5mm-red-led-pack-of-10
+Yellow LED (5mm),1,https://thepihut.com/products/5mm-yellow-led-pack-of-10
+Green LED (5mm),1,https://thepihut.com/products/5mm-green-led-pack-of-10
+220 Ohm Resistor,3,https://thepihut.com/products/resistor-pack-220-ohm
+Active Buzzer,1,https://thepihut.com/products/active-buzzer-module
+Solderless Breadboard,1,https://thepihut.com/products/full-size-breadboard
+Male-to-Male Jumper Wires,10,https://thepihut.com/products/male-to-male-jumper-wires-40-pack
+USB-C Power Supply,1,https://www.raspberrypi.com/products/type-c-power-supply/
